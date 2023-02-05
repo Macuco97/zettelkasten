@@ -1,0 +1,2 @@
+# zettelkasten
+A note plataform
